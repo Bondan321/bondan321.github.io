@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "Brian Rakhmat Aji"
+title                    : "Bondan Murdani Soleh"
 title_separator          : "-"
-name                     : "Brian Rakhmat Aji"
+name                     : "Bondan Murdani Soleh"
 description              : "-"
-url                      : "https://brianrakhmat.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bondan321.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -22,7 +22,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "brianrakhmataji" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "papabondan" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,23 +81,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian Rakhmat Aji"
+  name             : "Bondan"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "-"
-  location         : "Jakarta, Indonesia"
+  location         : "Surabaya, Indonesia"
   email            : "-"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Brian Rakhmat Aji"
+  facebook         : "bondan-murdani-sukses"
   foursquare       :
-  github           : "brianrakhmat"
-  gitlab           : "brianrakhmat"
+  github           : "bondan321"
+  gitlab           : "bondan"
   google_plus      :
   keybase          :
-  instagram        : "brianrakhmat"
+  instagram        : "bondan_murdani"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "brianrakhmat"
+  twitter          : "bondanhadoh"
   vine             :
   weibo            :
   xing             :
